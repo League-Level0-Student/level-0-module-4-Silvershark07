@@ -38,5 +38,6 @@ if(puplilX<428){
     
   fill(#050404);
   ellipse(puplilX,puplilY,23,23);
-ellipse(lefteyeX + 138,lefteyeY - 20,23,23);
+ellipse(puplilX + 138,puplilY - 20,23,23);
+
 }
